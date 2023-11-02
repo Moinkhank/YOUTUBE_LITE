@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/YOUTUBE_LITE/static/css/main.4cd6d0b0.css",
+    "main.js": "/YOUTUBE_LITE/static/js/main.1635d68b.js",
+    "static/js/787.49a2bf42.chunk.js": "/YOUTUBE_LITE/static/js/787.49a2bf42.chunk.js",
+    "static/media/yt-logo-mobile.png": "/YOUTUBE_LITE/static/media/yt-logo-mobile.7e67cd801ac3213983ff.png",
+    "static/media/yt-logo.png": "/YOUTUBE_LITE/static/media/yt-logo.d6505fbc930734374cea.png",
+    "index.html": "/YOUTUBE_LITE/index.html",
+    "main.4cd6d0b0.css.map": "/YOUTUBE_LITE/static/css/main.4cd6d0b0.css.map",
+    "main.1635d68b.js.map": "/YOUTUBE_LITE/static/js/main.1635d68b.js.map",
+    "787.49a2bf42.chunk.js.map": "/YOUTUBE_LITE/static/js/787.49a2bf42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cd6d0b0.css",
+    "static/js/main.1635d68b.js"
+  ]
+}
